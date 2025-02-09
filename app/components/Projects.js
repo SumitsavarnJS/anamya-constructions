@@ -9,15 +9,14 @@ import { motion } from "framer-motion";
 
 const projects = [
   { id: 1, image: "/logo/office2.jpeg", title: "Office" },
-  { id: 8, image: "/logo/LivingRoom.jpeg", title: "Modern Living Room" },
-
-
   { id: 2, image: "/logo/Bedroom.jpeg", title: "Luxury Bedroom" },
   { id: 3, image: "/logo/kitchen.jpeg", title: "Elegant Kitchen" },
   { id: 4, image: "/logo/Poooja2.jpeg", title: "Pooja Room" },
   { id: 5, image: "/logo/officenew.jpeg", title: "Office" },
   { id: 6, image: "/logo/study.jpg", title: "Cozy Study Room" },
   { id: 7, image: "/logo/washroom.jpg", title: "Classic Bathroom" },
+  { id: 8, image: "/logo/LivingRoom.jpeg", title: "Modern Living Room" },
+
 
 ];
 
