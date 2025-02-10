@@ -15,7 +15,7 @@ const projects = [
   { id: 5, image: "/logo/officenew.jpeg", title: "Office" },
   { id: 6, image: "/logo/study.jpg", title: "Cozy Study Room" },
   { id: 7, image: "/logo/washroom.jpg", title: "Classic Bathroom" },
-  { id: 8, image: "/logo/livingroom.jpeg", title: "Modern Living Room" },
+  { id: 8, image: "/logo/tvroom.webp", title: "Modern Living Room" },
 
 
 ];
