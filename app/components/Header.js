@@ -44,7 +44,7 @@ export default function Header() {
               display: { xs: "none", md: "block" },
             }}
           >
-            Anamya Interiors
+            Anamya Interiors & Constructions
           </Typography>
         </Box>
 
