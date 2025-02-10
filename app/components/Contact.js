@@ -15,7 +15,7 @@ export default function Contact() {
         sx={{ 
           color: "#333", 
           mb: 4, 
-          textTransform: "uppercase",
+          textTransform: "capitalize",
           textShadow: "1px 2px 15px rgba(0, 0, 0, 0.3)"
         }}
       >

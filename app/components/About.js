@@ -37,7 +37,7 @@ export default function About() {
           sx={{
             color: "#2C3E50",
             mb: 4,
-            textTransform: "uppercase",
+            textTransform: "capitalize",
             textShadow: "2px 2px 10px rgba(0, 0, 0, 0.2)",
             letterSpacing: "2px",
           }}

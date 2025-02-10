@@ -35,7 +35,7 @@ export default function Projects() {
       <Typography
         variant="h3"
         fontWeight="bold"
-        sx={{ color: "#2C3E50", mb: 4, textTransform: "uppercase" }}
+        sx={{ color: "#2C3E50", mb: 4, textTransform: "capitalize" }}
       >
         Our Projects
       </Typography>
