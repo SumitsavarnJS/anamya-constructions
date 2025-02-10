@@ -20,7 +20,7 @@ const projects = [
 
 ];
 
-const whatsappNumber = "1234567890"; // Replace with your actual number
+const whatsappNumber = "91993145538"; // Replace with your actual number
 
 export default function Projects() {
   const [selectedImage, setSelectedImage] = useState(null);
